@@ -1,9 +1,6 @@
-/*setting the body color, font and font color*/
+body {background-color:black;font-family:arial;color:white}
 
-body {background-color: black; font-family: arial; color: white}
-h1{color: grey; font-family: verdana}
-
-/*created entry for class 'maindiv'*/
+h1{color:grey;font-family:verdana}
 
 .maindiv {
     background-color:white;
@@ -11,9 +8,7 @@ h1{color: grey; font-family: verdana}
     width:300px;
     padding:20px;
     border-radius:25px;
-    align:text;
+    align:center
 }
 
-.highlight {
-background-color: yellow;
-}
+.highlight{background-color: yellow;}
